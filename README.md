@@ -2,6 +2,10 @@
 
 Sickness is a JavaScript library that aims to emulate what it's like after an entire day of coding, when you're coming down off your Red Bull high, and everything starts to look a little jittery.
 
+# Demo
+
+https://hperrin.github.io/sicknessjs/
+
 # Installation
 
 Don't.
