@@ -1,6 +1,6 @@
 {
   "name": "sickness.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Emulates the dazed and confused feeling you get when you code all day long.",
   "main": "sickness.js",
   "scripts": {
