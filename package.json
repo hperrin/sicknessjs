@@ -1,0 +1,19 @@
+{
+  "name": "sickness.js",
+  "version": "1.0.0",
+  "description": "Emulates the dazed and confused feeling you get when you code all day long.",
+  "main": "sickness.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hperrin/sicknessjs.git"
+  },
+  "author": "Hunter Perrin <hperrin@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/hperrin/sicknessjs/issues"
+  },
+  "homepage": "https://github.com/hperrin/sicknessjs#readme"
+}
